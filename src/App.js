@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Day, Hour, Minute } from './ProgressBar';
+import Day from './Day';
+import Hour from './Hour';
+import Minute from './Minute';
 
 class App extends Component {
   render() {
