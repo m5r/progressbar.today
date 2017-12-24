@@ -1,4 +1,4 @@
-[Live example](https://progressbar.today/)
+[Live example](https://eager-perlman-337c00.netlify.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
